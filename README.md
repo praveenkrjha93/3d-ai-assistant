@@ -6,7 +6,7 @@ A sophisticated browser-based 3D talking AI assistant built with Three.js, featu
 
 ## 📸 Preview
 
-![3D AI Assistant Screenshot](../3d-bot.png)
+![3D AI Assistant Screenshot](./3d-bot.png.png)
 
 *The 3D AI Assistant in action - featuring a modern glassmorphism UI with an interactive 3D avatar, real-time chat interface, and voice controls.*
 
